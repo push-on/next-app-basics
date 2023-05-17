@@ -1,9 +1,9 @@
 import Link from "next/link"
 
-const session = null
 
 export default function Home() {
-
+  
+  // const session = null
   // if (!session) throw new Error("Test Error")
 
   return (
