@@ -1,5 +1,3 @@
-
-
 export async function GET(request: any) {
 	const users = [
 		{ id: 1, name: 'John' },
